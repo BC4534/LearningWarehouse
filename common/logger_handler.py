@@ -44,8 +44,8 @@ class Logger:
         self.file_handler.setLevel(level)  # 设置文件处理器的日志级别
 
         # 创建控制台日志处理器
-        # self.console_handler = logging.StreamHandler(sys.stdout)
-        # self.console_handler.setLevel(level)  # 设置控制台处理器的日志级别
+        self.console_handler = logging.StreamHandler(sys.stdout)
+        self.console_handler.setLevel(level)  # 设置控制台处理器的日志级别
 
         # 设置日志格式
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(threadName)s - %(message)s')
@@ -54,7 +54,7 @@ class Logger:
 
         # 将处理器添加到日志记录器
         self.logger.addHandler(self.file_handler)
-        # self.logger.addHandler(self.console_handler)
+        self.logger.addHandler(self.console_handler)
 
     def get_logger(self):
         return self.logger

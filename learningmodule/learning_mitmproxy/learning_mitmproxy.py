@@ -5,11 +5,11 @@ from mitmproxy.tools.dump import DumpMaster
 from addons import Counter
 
 
-async def start_proxy():
+async def start_proxy(listen_port = 8080,listen_host = '127.0.0.1', mode =None ):
     dm = DumpMaster(options=Options(
-        listen_port=8080,
-        listen_host='127.0.0.1',
-        mode=['socks5']
+        listen_port = listen_port,
+        listen_host = listen_host,
+        mode = ['socks5']
     ))
     dm.server = Proxyserver()
     dm.addons.add(Counter())
