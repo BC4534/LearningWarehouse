@@ -1,7 +1,7 @@
 import os
 import requests
 import allure
-from common.mylogger import Logger
+from common.logger_handler import logger
 
 
 class BaseApi:
@@ -9,7 +9,9 @@ class BaseApi:
     封装请求方法，方便后续调用
     """
     # 初始化日志记录器
-    logger = Logger()
+    def __init__(self):
+        self.logger = logger
+
 
     def _log_request(self, method, url, params=None, data=None, json=None):
         self.logger.info(f"发起{method.upper()}请求: {url}")

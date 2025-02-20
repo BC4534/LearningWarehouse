@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library>
+    <book>
+        <title>Python Programming</title>
+        <author>John Doe</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Data Science Handbook</title>
+        <author>Jane Smith (New)</author>
+        <year>2022</year>
+    </book>
+</library>

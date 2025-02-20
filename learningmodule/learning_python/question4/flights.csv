@@ -1,0 +1,6 @@
+flight_id,departure_city,arrival_city,departure_time,arrival_time,price
+1,Beijing,Shanghai,2024-10-01 08:00:00,2024-10-01 10:30:00,800
+2,Shanghai,Guangzhou,2024-10-02 12:15:00,2024-10-02 14:45:00,650
+3,Beijing,Chengdu,2024-10-03 15:30:00,2024-10-03 18:45:00,950
+4,Guangzhou,Shenzhen,2024-10-04 09:45:00,2024-10-04 10:45:00,200
+5,Shanghai,Beijing,2024-10-05 17:00:00,2024-10-05 19:30:00,850

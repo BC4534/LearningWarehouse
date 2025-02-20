@@ -1,0 +1,8 @@
+The Python programming language is a high - level, interpreted, general - purpose programming language.
+Its design philosophy emphasizes code readability with the use of significant indentation.
+Python is dynamically - typed and garbage - collected.
+It supports multiple programming paradigms, including structured (particularly, procedural), object - oriented, and functional programming.
+Python has a large and comprehensive standard library that provides tools for many tasks, such as web development, data analysis, scientific computing, and artificial intelligence.
+The language is named after the British comedy group Monty Python, and its community is known for its friendly and inclusive culture.
+Python is widely used in academia, research, industry, and software development.
+It has become one of the most popular programming languages in recent years, due to its simplicity, versatility, and the availability of numerous third - party libraries.

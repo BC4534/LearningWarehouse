@@ -1,0 +1,10 @@
+i18n.oc.dtu.detail.title.dcdc=DCDC{0}
+i18n.oc.dtu.detail.215.1.bms.soh=SOH
+i18n.oc.dtu.detail.215.2.bms.soe=SOE
+i18n.oc.dtu.detail.215.2.bms.soh=SOH
+i18n.oc.dtu.detail.261.bms.soe=SOE
+i18n.oc.dtu.detail.372.bms.soe=SOE
+i18n.oc.dtu.detail.372.bmc.soe=SOE
+i18n.oc.dtu.detail.372.bmc.soh=SOH
+i18n.oc.dtu.detail.215.es.bms.soe=SOE
+i18n.oc.dtu.detail.215.es.bms.soh=SOH

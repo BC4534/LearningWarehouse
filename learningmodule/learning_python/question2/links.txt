@@ -1,0 +1,5 @@
+subfolder/page2.html
+https://www.sample.org
+page1.html
+https://www.test.net
+https://www.example.com

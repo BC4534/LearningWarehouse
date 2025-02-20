@@ -1,0 +1,8 @@
+i18n.oc.report.detailedElectricity=Details of electricity quantity(Energy storage meter)
+i18n.oc.report.detailedElectricity.tip=Charging in sharp period/Discharging quantity (kWh)
+i18n.oc.report.detailedElectricity.peak=Charging in peak period/Discharging quantity (kWh)
+i18n.oc.report.detailedElectricity.flat=Charging in shoulder period/Discharging quantity (kWh)
+i18n.oc.report.detailedElectricity.valley=Charging in valley period/Discharging quantity (kWh)
+i18n.oc.report.detailedElectricity.total=Total charging/Discharging quantity (kWh)
+i18n.oc.report.detailedRevenue=Income details(Energy storage meter)
+i18n.oc.report.electricityBilling=Electricity expense settlement sheet(User meter)
